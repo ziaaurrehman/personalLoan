@@ -5,7 +5,7 @@ const FtLoansectionFirst = () => {
    <div>     <section className="per__wrapper">
     <div className="row">
       <div className="col-md-6 order-2 order-md-1">
-        <div className="ft__bannerDescriptionWrapper">
+        <div className="per__wrapperdetails">
           <h1>Personal loans<br />up to $20,000</h1>
           <h4>We offer personal loans that range from $500 up to $20,000. Rates starting from 29.99%</h4>
           <p>We offer personalized products and affordable payment plans. We work with our customers to

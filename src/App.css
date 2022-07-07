@@ -184,15 +184,15 @@ h6,
     padding: 40px 30px;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper {
+.per__wrapper .per__wrapperdetails {
   padding: 21px 0;
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper {
+  .per__wrapper .per__wrapperdetails {
     padding-top: 10px;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper h1 {
+.per__wrapper .per__wrapperdetails h1 {
   font-size: 60px;
   line-height: 60px;
   letter-spacing: -1px;
@@ -200,19 +200,19 @@ h6,
   margin-bottom: 27px;
 }
 @media screen and (max-width: 1280px) {
-  .per__wrapper .ft__bannerDescriptionWrapper h1 {
+  .per__wrapper .per__wrapperdetails h1 {
     font-size: 45px;
     line-height: 45px;
     letter-spacing: -1px;
   }
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper h1 {
+  .per__wrapper .per__wrapperdetails h1 {
     font-size: 33px;
     line-height: 33px;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper h4 {
+.per__wrapper .per__wrapperdetails h4 {
   font-size: 29px;
   line-height: 42px;
   color: #5A687C;
@@ -223,13 +223,13 @@ h6,
   padding-left: 2px;
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper h4 {
+  .per__wrapper .per__wrapperdetails h4 {
     font-size: 20px;
     line-height: 22px;
     margin-bottom: 25px;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper p {
+.per__wrapper .per__wrapperdetails p {
   font-size: 20px;
   line-height: 25px;
   color: #8d97a7;
@@ -238,30 +238,30 @@ h6,
   margin-bottom: 31px;
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper p {
+  .per__wrapper .per__wrapperdetails p {
     font-size: 15px;
     line-height: 22px;
     padding: 0;
     margin-bottom: 40px;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper .ft__btnWrapper {
+.per__wrapper .per__wrapperdetails .ft__btnWrapper {
   margin-bottom: 22px;
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper .ft__btnWrapper .ft__btn {
+  .per__wrapper .per__wrapperdetails .ft__btnWrapper .ft__btn {
     width: 100%;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper .ft__bannerLogoWrap {
+.per__wrapper .per__wrapperdetails .ft__bannerLogoWrap {
   max-width: 251px;
 }
 @media screen and (max-width: 991px) {
-  .per__wrapper .ft__bannerDescriptionWrapper .ft__bannerLogoWrap {
+  .per__wrapper .per__wrapperdetails .ft__bannerLogoWrap {
     margin: 0 auto;
   }
 }
-.per__wrapper .ft__bannerDescriptionWrapper .ft__bannerLogoWrap img {
+.per__wrapper .per__wrapperdetails .ft__bannerLogoWrap img {
   width: 100%;
   height: auto;
 }

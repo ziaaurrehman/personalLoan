@@ -7,7 +7,7 @@ const Routes = () => {
     <div>
       <Router>
         <Switch>
-          <Route exact path="/ok" component={LandingPage} />
+          <Route exact path="/" component={LandingPage} />
         
         </Switch>    
       </Router>
